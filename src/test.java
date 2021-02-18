@@ -2,8 +2,11 @@
 public class test {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+String vards ="Uldis";
+int a=2,b=4;
 
+System.out.println(vards+"summa="+a+b);
 	}
 
 }
